@@ -37,6 +37,7 @@ data_criaçao timestamp default current_timestamp,
 valor_fatura decimal(10,2)
 );
 ```
+# exercicio 4
 ```sql
 -- criar o banco de dados
 create database bancoteste;
