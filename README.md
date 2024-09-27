@@ -131,6 +131,7 @@ id_ItensPerdidos int primary key
 );
 ```
 ```sql
+-- Crie uma tabela chamada Produtos com os campos ID, NomeProduto, QantidadeProduto e ValorProduto.
 create table Produtos(
 id_produto int primary key,
 NomeProduto varchar(50),
